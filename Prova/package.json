@@ -1,0 +1,16 @@
+{
+  "name": "prova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "q1.js",
+  "scripts": {
+    "um": "node ./q1",
+    "dois": "node ./q2",
+    "tres": "node ./q3",
+    "quatro": "node ./q4",
+    "teste": "node ./teste"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
